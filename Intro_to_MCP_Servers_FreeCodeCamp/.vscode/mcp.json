@@ -1,0 +1,16 @@
+{
+    "servers": {
+        "Calculator-STDIO": {
+            "command": "C:/Users/ASUS/miniconda3/envs/Ollama/python.exe",
+            "args": [
+                "01_fastmcp_calculator.py"
+            ]
+        },
+        "FreeCodeCamp Feed-STDIO": {
+            "command": "C:/Users/ASUS/miniconda3/envs/Ollama/python.exe",
+            "args": [
+                "04_feed_mcp.py"
+            ]
+        }
+    }
+}
